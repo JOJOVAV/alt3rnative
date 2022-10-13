@@ -12,7 +12,7 @@
   
    * **Open-source** feature-rich markdown editor.
 
-* [Ghostwriter](https://wereturtle.github.io/ghostwriter)
+* [Ghostwriter]([https://wereturtle.github.io/ghostwriter](https://ghostwriter.kde.org/))
   
    * An **open-source** markdown editor with focus on clean UX.
 
